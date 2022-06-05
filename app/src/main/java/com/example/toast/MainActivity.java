@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         Toast myToast=new Toast(getApplicationContext());
         myToast.setDuration(Toast.LENGTH_LONG);
         myToast.setView(myLayout);
+        
         myToast.show();
 
     }
