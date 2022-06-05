@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "Toast"
+=======
+rootProject.name = "Customized list view"
+>>>>>>> 732975e009b355e3dffe514b2731b543484a7245
 include ':app'

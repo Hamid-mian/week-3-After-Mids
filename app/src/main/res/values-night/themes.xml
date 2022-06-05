@@ -1,6 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Theme.Toast" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+=======
+    <style name="Theme.CustomizedListView" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+>>>>>>> 732975e009b355e3dffe514b2731b543484a7245
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_200</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
